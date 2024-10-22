@@ -1,0 +1,27 @@
+*{
+    background-color: lightgray;
+}
+img{
+    width: 330px;
+    border-radius: 15px;
+    border-color: black ;
+    border: solid;
+}
+figure{
+    
+}
+section{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;  
+    margin-bottom: 40px; 
+}
+figcaption{
+    font-size: 80%;
+    width: 330px;
+}
+h1{
+    margin-left: 40px;
+    font-weight: bold;
+}
